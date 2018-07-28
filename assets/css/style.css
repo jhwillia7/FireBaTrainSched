@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One|Share+Tech+Mono');
+
+body{
+    background-image: url("../images/maxresdefault.jpg");
+    background-image: url("../images/1200px-Paddington_-_GWR_43098_arriving_from_Swansea.JPG");
+}
+
+.well, h1, p{
+    text-align: center;
+
+}
+
+h1, p{
+    color:black;
+    font-family: 'Black Ops One', cursive;
+}
+
+button{
+    margin: 5px 5px 5px 5px;
+}
+
+.panel{
+background-color:rgba(149, 240, 64, 0.904);
+font-family: 'Share Tech Mono', monospace;
+}
+
+
+.well{
+    background-color:rgba(149, 240, 64, 0.904);
+}
+
+.control-label{
+    color:black;
+}
+
+.panel > .panel-heading {
+background-color: rgba(238, 234, 10, 0.904);
+color: black;
+font-family: 'Share Tech Mono', monospace;
+}
+
+.tableRow{
+    color: black;
+}
+
+.table{
+    color: black;
+    font-family: 'Share Tech Mono', monospace;
+}
