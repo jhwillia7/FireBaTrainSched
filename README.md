@@ -25,5 +25,5 @@ This application is a train schedule application that incorporates Firebase to h
   
 * I also provide the following on the webiste "minutes to arrival" and "next train time" text once every minute. 
 
-* i have added an `update` and `remove` buttons for each train. This let's the user edit the row's elements-- allow them to change a train's Name, Destination and Arrival Time (and then, by relation, minutes to arrival).
+* I have added an `update` and `remove` buttons for each train. This let's the user edit the row's elements-- allow them to change a train's Name, Destination and Arrival Time (and then, by relation, minutes to arrival).
 
